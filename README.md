@@ -1,1 +1,2 @@
 # Handwash_Visual
+Hello! In this small exercise notebook, we look at how handwashing changed the course of the world ever since it's inception. We step into the shoes of Ignaz Semmelweis, A Hungarian doctor working in the Vienna General Hospital, who invented handwashing as a principle to curb the number of deaths of new mothers due to bed fever. We look at his data, experiments, and his conclusion supporting the cause for handwashing.
